@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">leboncoin-test</string>
+    <string name="error_title">Une erreur est survenue</string>
+    <string name="error_message">Un porblème est survenu lors de la récupération des données, veuillez vérifier votre connexion internet</string>
+    <string name="ok">Ok</string>
+    <string name="empty_albums">Aucun album à afficher</string>
+</resources>
